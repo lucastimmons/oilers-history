@@ -1,0 +1,51 @@
+    #canvas {
+		height: 1148px;
+		position: relative;
+		width: 900px;
+	}
+	#paper {
+		height: 1148px;
+		position: relative;
+		width: 900px;
+		display:block;
+	}
+	h2 {
+		text-align: center;
+	}
+	#divposi1, #divposi2, #divposi3, #divposi4, #divposi5, #divposi6, #divposi7, #divposi8, #divposi9, #divposi10, #divposi11, #divposi12, #divposi13, #divposi14, #divposi15, #divposi16, #divposi17, #divposi18, #divposi19, #divposi20, #divposi21, #divposi22, #divposi23, #divposi24, #divposi25, #divposi26, #divposi27, #divposi28, #divposi29, #divposi30, #divposi31, #divposi32, #divposi33, #divposi34, #divposi35, #divposi36, #divposi37, #divposi38, #divposi39, #battlei1, #battlei2, #battlei3, #battlei4, #battlei5, #battlei6, #battlei7, #battlei8, #battlei9, #battlei10, #battlei11, #battlei12, #battlei13, #battlei14, #battlei15, #battlei16, #battlei17, #battlei18, #battlei19, #battlei20, #battlei21, #battlei22, #battlei23, #battlei24, #battlei25, #battlei26, #battlei27, #battlei28, #battlei29, #battlei30, #battlei31, #battlei32, #playoffi1, #playoffi2, #playoffi3, #playoffi4, #playoffi5, #playoffi6, #playoffi7, #playoffi8, #playoffi9, #playoffi10, #playoffi11, #playoffi12, #playoffi13, #playoffi14, #playoffi15, #playoffi16, #playoffi17, #playoffi18, #playoffi19, #playoffi20, #playoffi21, #playoffi22, #playoffi23, #playoffi24, #playoffi25, #playoffi26, #playoffi27, #playoffi28, #playoffi29, #playoffi30, #playoffi31, #playoffi32, #playoffi33, #playoffi34, #playoffi35, #playoffi36, #playoffi37, #playoffi38, #playoffi39, #hunterg, #guidoling, #conacherg, #gordong, #satherg, #loweg, #tambellinig, #kinasewichc, #shawc, #drakec, #gouidolinc, #greenc, #burnettc, #lowec, #mactavishc, #quinnc, #renneyc, #kruegerc, #hunterc, #satherc, #mucklerc, #satherc2, #satherc3, #watsonc, #lowc, #gardensa, #northlandsa, #coliseum, #skyreacha, #rexalla, #hamiltonca, #satherca, #shmyrca, #chipperfieldca, #macdonaldca, #fogolinac, #gretzkyca, #messierca, #loweca, #mactavishca, #corsonca, #buchbergerca, #weightca, #smithca, #moreauca, #horcoffca, #allstar1, #allstar2, #allstar3, #allstar4, #allstar5, #allstar6, #allstar7, #allstar8, #allstar9, #allstar10, #allstar11, #allstar12, #allstar13, #allstar14, #allstar15, #allstar16, #allstar17, #allstar18, #allstar19, #allstar20, #allstar21, #allstar22, #allstar23, #allstar24, #allstar25, #allstar26, #allstar27, #allstar28, #allstar29, #allstar30, #allstar31, #allstar32, #allstar33, #allstar34, #allstar35, #winper1, #winper2, #winper3, #winper4, #winper5, #winper6, #winper7, #winper8, #winper9, #winper10, #winper11, #winper12, #winper13, #winper14, #winper15, #winper16, #winper17, #winper18, #winper19, #winper20, #winper21, #winper22, #winper23, #winper24, #winper25, #winper26, #winper27, #winper28, #winper29, #winper30, #winper31, #winper32, #winper33, #winper34, #winper35, #winper36, #winper37, #winper38, #winper39, #attend1, #attend2, #attend3, #attend4, #attend5, #attend6, #attend7, #attend8, #attend9, #attend10, #attend11, #attend12, #attend13, #attend14, #attend15, #attend16, #attend17, #attend18, #attend19, #attend20, #attend21, #attend22, #attend23, #attend24, #attend25, #attend26, #attend27, #attend28, #attend29, #attend30, #attend31, #attend32, #attend33, #attend34, #attend35, #attend36, #attend37, #attend38, #attend39, #ownertext, #gmtext, #coachtext, #captaintext, #arenatext, #winningtext, #allstartext, #attendancetext, #divisionaltext, #playofftext, #battletext, #satherca, #huntero, #skalbaniao, #pocklingtono, #eigo, #katzo {
+		display: none;
+		overflow: auto;
+		position: absolute;
+		right: 0;
+		top: 0;
+		width: 500px;
+	}
+
+	#tip{
+	   position : absolute;
+	   -moz-border-radius: 10px;
+        border-radius: 10px;
+        border-style:inset;
+        border-color:#FF6B15;
+        border-width:2px;
+        background-color:rgb(14,38,93);
+        background-color:rgba(14,38,93,0.9);
+	   padding : 3px;
+	   z-index: 1000;
+	   /* set this to create word wrap */
+	   width: 500px;
+	   font-family:Verdana, Geneva, sans-serif;
+	   color: white;
+	}
+	#logo1{
+	   position : absolute;
+	   top: 10px;
+	   left:40px;
+	   z-index: 1000;
+	}
+	#logo2{
+	   position : absolute;
+	   top: 10px;
+	   right:-20px;
+	   z-index: 1000;
+	}
